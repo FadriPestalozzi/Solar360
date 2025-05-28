@@ -8,7 +8,7 @@ Sentiment.
 - [Executive Summary](#executive-summary)
 - [Public Datasets](#public-datasets)
 - [Machine‑Learning Stack](#machinelearning-stack)
-- [Workflow & Integration](#workflow-integration)
+- [Workflow & Integration](#workflow--integration)
 - [Expected Deliverables (2 Weeks)](#expected-deliverables-2-weeks)
 - [Alignment with Open Climate Fix](#alignment-with-open-climate-fix)
 - [Why Solar360 Matters](#why-solar360-matters)
