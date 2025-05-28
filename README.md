@@ -1,14 +1,17 @@
 # Solar360: An Integrated AI Platform for Solar Forecasting, Panel Health & Public Sentiment
 
+A Holistic Solar-AI Platform to Leverage Forecasting, Panel Health & Public
+Sentiment.
+
 ## Table of Contents
 
-- [Executive Summary](#executive-summary)
-- [Public Datasets](#public-datasets)
-- [Machine‑Learning Stack](#machine‑learning-stack)
-- [Workflow & Integration](#workflow--integration)
-- [Expected Deliverables (2 Weeks)](#expected-deliverables-2-weeks)
-- [Alignment with Open Climate Fix](#alignment-with-open-climate-fix)
-- [Why Solar360 Matters](#why-solar360-matters)
+- [Executive Summary](#executive-summary)
+- [Public Datasets](#public-datasets)
+- [Machine-Learning Stack](#machine-learning-stack)
+- [Workflow & Integration](#workflow--integration)
+- [Expected Deliverables (2 Weeks)](#expected-deliverables-2-weeks)
+- [Alignment with OpenClimateFix](#alignment-with-openclimatefix)
+- [Why Solar360 Matters](#why-solar360-matters)
 
 ## Executive Summary
 
