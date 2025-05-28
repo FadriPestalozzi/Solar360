@@ -13,7 +13,7 @@ Sentiment.
 - [Alignment with OpenClimateFix](#alignment-with-openclimatefix)
 - [Why Solar360 Matters](#why-solar360-matters)
 
-## Executive Summary
+## Executive Summary
 
 **Solar360** unifies three machine‑learning pipelines into one practical
 solution for accelerating solar‑power adoption:
@@ -33,7 +33,7 @@ two‑week bootcamp sprint (3 people) and builds directly on
 
 ---
 
-## Public Datasets
+## Public Datasets
 
 | Component          | Dataset                                                                          | Format                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -48,7 +48,7 @@ criteria.
 
 ---
 
-## Machine‑Learning Stack
+## Machine‑Learning Stack
 
 | Pipeline    | Core Model                              | Bootcamp Skill Validated     |
 | ----------- | --------------------------------------- | ---------------------------- |
@@ -61,7 +61,7 @@ demonstrate DL uplift (lower RMSE, higher F1).
 
 ---
 
-## Workflow & Integration
+## Workflow & Integration
 
 ```mermaid
 graph TD
@@ -80,7 +80,7 @@ graph TD
 
 ---
 
-## Expected Deliverables (2 Weeks)
+## Expected Deliverables (2 Weeks)
 
 - **3 trained models** with documented code (PyTorch/TensorFlow, scikit‑learn
   baselines).
@@ -101,7 +101,7 @@ graph TD
 
 ---
 
-## Alignment with Open Climate Fix
+## Alignment with Open Climate Fix
 
 - Builds on OCF’s
   [prediction pipelines](https://github.com/openclimatefix/open-source-quartz-solar-forecast)
@@ -116,7 +116,7 @@ graph TD
 
 ---
 
-## Why Solar360 Matters
+## Why Solar360 Matters
 
 - Accurate nowcasts let grid operators cut fossil backup and CO₂ (see National
   Grid ESO quote on OCF site)
